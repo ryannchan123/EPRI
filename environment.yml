@@ -21,3 +21,6 @@ dependencies:
     - panel
     - param
     - plotly
+    - xarray
+    - pandas 
+    - types-python-dateutil
