@@ -5,7 +5,7 @@ appmode==0.9.0
 arrow==1.3.0
 #asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 #async-lru @ file:///C:/b/abs_e0hjkvwwb5/croot/async-lru_1699554572212/work
-attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
+#attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
 Babel @ file:///C:/ci_311/babel_1676427169844/work
 beautifulsoup4 @ file:///C:/b/abs_0agyz1wsr4/croot/beautifulsoup4-split_1681493048687/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
