@@ -1,4 +1,4 @@
-anyio @ file:///C:/ci_311/anyio_1676425491996/work/dist
+#anyio @ file:///C:/ci_311/anyio_1676425491996/work/dist
 appmode==0.9.0
 argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
 argon2-cffi-bindings @ file:///C:/ci_311/argon2-cffi-bindings_1676424443321/work
