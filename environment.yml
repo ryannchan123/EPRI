@@ -1,0 +1,23 @@
+channels:
+  - conda-forge
+dependencies:
+  - appmode
+  - pip
+  - pip:
+    - numpy
+    - matplotlib
+    - ipywidgets
+    - arrow
+    - bokeh
+    - Cartopy
+    - colorcet
+    - comm
+    - contourpy
+    - cycler
+    - geoviews
+    - holoviews
+    - hvplot
+    - jupyterlab-widgets
+    - panel
+    - param
+    - plotly
