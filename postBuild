@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Appmode Jupyter拡張機能のインストール
+jupyter nbextension install --py --symlink --sys-prefix appmode
+jupyter nbextension enable --py --sys-prefix appmode
+
+# Appmodeの有効化
+jupyter serverextension enable --py --sys-prefix appmode
